@@ -21,9 +21,9 @@ npm install
 Create a `.env` file or set these in your hosting environment:
 
 ```env
-SUPABASE_URL=https://your-project.supabase.co
+SUPABASE_URL=https://isbnahfhtdlwupnwyhwz.supabase.co
 SUPABASE_SERVICE_KEY=your-supabase-service-role-key
-ADMIN_PHONE=8801718097927
+ADMIN_PHONE=01721001923
 PORT=3001
 ```
 
